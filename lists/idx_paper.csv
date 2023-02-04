@@ -1,0 +1,108 @@
+0;AAAI 2022;Siddhant Arora;Explain, Edit, and Understand: Rethinking User Study Design for Evaluating Model Explanations
+1;AAAI 2021;Yangming Li;Interpretable NLG for Task-oriented Dialogue Systems with Heterogeneous Rendering Machines
+2;AAAI 2021;Seojin Bang;Explaining A Black-box By Using A Deep Variational Information Bottleneck Approach
+3;AAAI 2019;Jingyue Gao;Explainable Recommendation through Attentive Multi-View Learning
+4;CHI 2022;Wencan Zhang;Towards Relatable Explainable AI with the Perceptual Process
+5;CHI 2022;Cecilia Panigutti;Understanding the impact of explanations on advice-taking: a user study for AI-based clinical Decision Support Systems
+6;CHI 2022;Sophia Hadash;Improving understandability of feature contributions in model-agnostic explainable AI tools
+7;CHI 2022;Su-Fang Yeh;How to Guide Task-oriented Chatbot Users, and When: A Mixed-methods Study of Combinations of Chatbot Guidance Types and Timings
+8;CHI 2022;Mengqi Liao;User Trust in Recommendation Systems: A comparison of Content-Based, Collaborative and Demographic Filtering
+9;CHI 2022;Wencan Zhang;Debiased-CAM to mitigate image perturbations with faithful visual explanations of machine learning
+10;CHI 2022;Yunlong Wang;Interpretable Directed Diversity: Leveraging Model Explanations for Iterative Crowd Ideation
+11;CHI 2022;Agathe Balayn;How can Explainability Methods be Used to Support Bug Identification in Computer Vision Models?
+12;CHI 2021;Gagan Bansal;Does the Whole Exceed its Parts? The Effect of AI Explanations on Complementary Team Performance
+13;CHI 2021;Andrew Slavin Ross;Evaluating the Interpretability of Generative Models by Interactive Reconstruction
+14;CHI 2021;Ariful Islam Anik;Data-Centric Explanations: Explaining Training Data of Machine Learning Systems to Promote Transparency
+15;CHI 2021;Chun-Hua Tsai;Exploring and Promoting Diagnostic Transparency and Explainability in Online Symptom Checkers
+16;CHI 2021;Tobias Schneider;ExplAIn Yourself! Transparency for Positive UX in Autonomous Driving
+17;CHI 2021;Mark Colley;Effects of Semantic Segmentation Visualization on Trust, Situation Awareness, and Cognitive Load in Highly Automated Vehicles
+18;CHI 2021;Forough Poursabzi-Sangdeh;Manipulating and Measuring Model Interpretability
+19;CHI 2021;Marissa Radensky;Exploring The Role of Local and Global Explanations in Recommender Systems
+20;CHI 2021;David Gray Widder;Trust in Collaborative Automation in High Stakes Software Engineering Work: A Case Study at NASA
+21;CHI 2021;Hyanghee Park;Human-AI Interaction in Human Resource Management: Understanding Why Employees Resist Algorithmic Evaluation at Workplaces and How to Mitigate Burdens
+22;CHI 2021;Mengqi Liao;How Should AI Systems Talk to Users when Collecting their Personal Information? Effects of Role Framing and Self-Referencing on Human-AI Interaction
+23;CHI 2021;Upol Ehsan;Expanding Explainability: Towards Social Transparency in AI systems
+24;CHI 2020;Alison Marie Smith-Renner;No Explainability without Accountability: An Empirical Study of Explanations and Feedback in Interactive ML
+25;CHI 2020;Yao Xie;CheXplain: Enabling Physicians to Explore and Understand Data-Driven, AI-Enabled Medical Imaging Analysis
+26;CHI 2020;Vivian Lai;Why is 'Chicago' deceptive? Towards Building Model-Driven Tutorials for Humans
+27;CHI 2020;Harmanpreet Kaur;Interpreting Interpretability: Understanding Data Scientists' Use of Interpretability Tools for Machine Learning
+28;CHI 2020;Ashraf Abdul;COGAM: Measuring and Moderating Cognitive Load in Machine Learning Model Explanations
+29;CHI 2020;Dae Hyun Kim;Answering Questions about Charts and Generating Visual Explanations
+30;CHI 2020;Q. Vera Liao;Questioning the AI: Informing Design Practices for Explainable AI User Experiences
+31;CHI 2019;Haofei Cheng;Explaining Decision-Making Algorithms through UI: Strategies to Help Non-Expert Stakeholders
+32;CHI 2019;Danding Wang;Designing Theory-Driven User-Centric Explainable AI
+33;CHI 2019;Fred Hohman;Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models
+34;CHI 2019;Ming Yin;Understanding the Effect of Accuracy on Trust in Machine Learning Models
+35;CHI 2019;Johannes Kunkel;Let Me Explain: Impact of Personal and Impersonal Explanations on Trust in Recommender Systems
+36;CHI 2018;Jonathan Dodge;How the Experts Do It: Assessing and Explaining Agent Behaviors in Real-Time Strategy Games
+37;CHI 2018;Emilee Rader;Explanations as Mechanisms for Supporting Algorithmic Transparency
+38;CHI 2018;Pierre Le Bras;Improving User Confidence in Concept Maps: Exploring Data Driven Explanations
+39;CSCW 2021;Zana Bucinca;To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-assisted Decision-making
+40;CSCW 2021;Jakob Schoeffer;Appropriate Fairness Perceptions? On the Effectiveness of Explanations in Enabling People to Assess the Fairness of Automated Decision Systems
+41;FAccT 2022;Hendrik Schuff;Human Interpretation of Saliency-based Explanation Over Text
+42;FAccT 2022;Andrew Bell;It's Just Not That Simple: An Empirical Study of the Accuracy-Explainability Trade-off in Machine Learning for Public Policy
+43;FAccT 2022;Ulrike Kuhl;Keep Your Friends Close and Your Counterfactuals Closer: Improved Learning From Closest Rather Than Plausible Counterfactual Explanations in an Abstract Setting
+44;FAccT 2022;Jakob Schoeffer;There Is Not Enough Information: On the Effects of Explanations on Perceptions of Informational Fairness and Trustworthiness in Automated Decision-Making
+45;FAccT 2022;Ruoxi Shang;Why Am I Not Seeing It? Understanding Users' Needs for Counterfactual Explanations in Everyday Recommendations
+46;FAT 2020;Galen Harrison;An Empirical Study on the Perceived Fairness of Realistic, Imperfect Machine Learning Models
+47;FAT 2019;Vivian Lai;On Human Predictions with Explanations and Predictions of Machine Learning Models: A Case Study on Deception Detection
+48;ICLR 2022;Leon Sixt;Do Users Benefit From Interpretable Vision? A User Study, Baseline, And Dataset
+49;ICLR 2021;Javier Antoran;Getting a CLUE: A Method for Explaining Uncertainty Estimates
+50;ICLR 2021;Zhen Han;Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs
+51;ICLR 2021;Judy Borowski;Exemplary Natural Images Explain CNN Activations Better than State-of-the-Art Feature Visualization
+52;ICLR 2020;Nikaash Puri;Explain Your Move: Understanding Agent Actions Using Specific and Relevant Feature Attribution
+53;ICLR 2019;Seung Wook Kim;Visual Reasoning by Progressive Module Networks
+54;IUI 2022;Francisco Gutierrez;Explaining Call Recommendations in Nursing Homes: a User-Centered Design Approach for Interacting with Knowledge-Based Health Decision Support Systems
+55;IUI 2022;Jeroen Ooge;Explaining Recommendations in E-Learning: Effects on Adolescents' Trust
+56;IUI 2022;Clarice Wang;Do Humans Prefer Debiased AI Algorithms? A Case Study in Career Recommendation
+57;IUI 2022;Lijie Guo;Building Trust in Interactive Machine Learning via User Contributed Interpretable Rules
+58;IUI 2022;Harini Suresh;Intuitively Assessing ML Model Reliability through Example-Based Explanations and Editing Model Inputs
+59;IUI 2022;Clara Bove;Contextualization and Exploration of Local Feature Importance Explanations to Improve Understanding and Satisfaction of Non-Expert Users
+60;IUI 2022;Krzysztof Z. Gajos;Do People Engage Cognitively with AI? Impact of AI Assistance on Incidental Learning
+61;IUI 2022;Jiao Sun;Investigating Explainability of Generative AI for Code through Scenario-based Design
+62;IUI 2022;Jonathan Dodge;How Do People Rank Multiple Mutant Agents?
+63;IUI 2021;Xinru Wang;Are Explanations Helpful? A Comparative Study of the Effects of Explanations in AI-Assisted Decision-Making
+64;IUI 2021;Mahsan Nourani;Anchoring Bias Affects Mental Model Formation and User Reliance in Explainable AI Systems
+65;IUI 2021;Michael Chromik;I Think I Get Your Point, AI! The Illusion of Explanatory Depth in Explainable AI
+66;IUI 2021;Nyi Nyi Htun;Perception of Fairness in Group Music Recommender Systems
+67;IUI 2021;Juan Rebanal;XAlgo: a Design Probe of Explaining Algorithms' Internal States via Question-Answering
+68;IUI 2021;Martin Lindvall;Rapid Assisted Visual Search: Supporting Digital Pathologists with Imperfect AI
+69;IUI 2020;Ahmed Alqaraawi;Evaluating Saliency Map Explanations for Convolutional Neural Networks: A User Study
+70;IUI 2020;Devleena Das;Leveraging Rationales to Improve Human Task Performance
+71;IUI 2020;Theresa Mai;"Keeping It ""Organized and Logical"": After-Action Review for AI (AAR/AI)"
+72;IUI 2020;Alison Smith-Renner;Digging into User Control: Perceptions of Adherence and Instability in Transparent Models
+73;IUI 2020;Tim Donkers;Explaining Recommendations by Means of Aspect-based Transparent Memories
+74;IUI 2020;David Johnson;NJM-Vis: Interpreting Neural Joint Models in NLP
+75;IUI 2020;Dustin L. Arendt;Parallel Embeddings: a Visualization Technique for Contrasting Learned Representations
+76;IUI 2020;Zana Bucinca;Proxy Tasks and Subjective Measures Can Be Misleading in Evaluating Explainable AI Systems
+77;IUI 2019;Jonathan Dodge;Explaining Models: An Empirical Study of How Explanations Impact Fairness Judgment
+78;IUI 2019;Shi Feng;What can AI do for me? Evaluating Machine Learning Interpretations in Cooperative Play
+79;IUI 2019;Carrie J. Cai;The Effects of Example-Based Explanations in a Machine Learning Interface
+80;IUI 2019;Upol Ehsan;Automated Rationale Generation: A Technique for Explainable AI and its Effects on Human Perceptions
+81;IUI 2019;Pigi Kouki;Personalized Explanations for Hybrid Recommender Systems
+82;IUI 2019;Ludovik Coba;Decision Making Strategies Difer in the Presence of Collaborative Explanations: Two Conjoint Studies
+83;IUI 2019;Martijn Millecamp;To Explain or not to Explain: the Effects of Personal Characteristics when Explaining Music Recommendations
+84;IUI 2019;Chun-Hua Tsai;Explaining Recommendations in an Interactive Hybrid Social Recommender
+85;IUI 2019;James Schaffer;I Can Do Better Than Your AI: Expertise and Explanations
+86;IUI 2019;Vicente Dominguez;The Effect of Explanations and Algorithmic Accuracy on Visual Recommender Systems of Artistic Images
+87;IUI 2019;Tianyi Li;What Data Should I Protect? Recommender and Planning Support for Data Security Analysts
+88;IUI 2018;Chun-Hua Tsai;Beyond the Ranked List: User-Driven Exploration and Diversification of Social Recommendation
+89;IUI 2018;Malin Eiband;Bringing Transparency Design into Practice
+90;IUI 2018;Saemi Choi;FontMatcher: Font Image Paring for Harmonious Digital Graphic Design
+91;IUI 2018;Oznur Alkan;Opportunity Team Builder for Sales Teams
+92;IUI 2018;Sean Penney;Toward Foraging for Understanding of StarCraft Agents: An Empirical Study
+93;NeurIPS 2021;Rohan Paleja;The Utility of Explainable AI in Ad Hoc Human-Machine Teaming
+94;NeurIPS 2020;Karthikeyan Natesan Ramamurthy;Model Agnostic Multilevel Explanations
+95;NeurIPS 2020;Jeya Vikranth Jeyakumar;How Can I Explain This to You? An Empirical Study of Deep Neural Network Explanation Methods
+96;NeurIPS 2020;Julius Adebayo;Debugging Tests for Model Explanations
+97;AAAI 2018;Marco Tulio Ribeiro;Anchors: High-Precision Model-Agnostic Explanations
+98;2022;Ulrike Kuhl;Let's Go to the Alien Zoo: Introducing an Experimental Framework to Study Usability of Counterfactual Explanations for Machine Learning
+99;AAAI 2021;Yasmeen Alufaisan;Does Explainable Artificial Intelligence Improve Human Decision-Making?
+100;WWW 2018;Nina Grgić-Hlača;Human Perceptions of Fairness in Algorithmic Decision Making: A Case Study of Criminal Risk Prediction
+101;2020;Peter Hase;Evaluating Explainable AI Which Algorithmic Explanations Help Users Predict Model Behavior
+102;NeurIPS 2020;Chih-Kuan Yeh;On Completeness-aware Concept-Based Explanations in Deep Neural Networks
+103;NeurIPS 2019;Amirata Ghorbani;Towards Automatic Concept-based Explanations
+104;ICLR 2022;Tobias Leemann;Coherence Evaluation of Visual Concepts With Objects and Language
+105;NuerIPS 2020;Iro Laina;Quantifying Learnability and Describability of Visual Concepts Emerging in Representation Learning
+106;2018;Arjun Chandrasekaran;Do Explanations make VQA Models more Predictable to a Human?
+107;CHI 2018;Reuben Binns;'It's Reducing a Human Being to a Percentage' Perceptions of Justice in Algorithmic Decisions

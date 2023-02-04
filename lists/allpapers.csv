@@ -1,0 +1,123 @@
+﻿Abdul;COGAM: Measuring and Moderating Cognitive Load in Machine Learning Model Explanations;usability
+Abdul;COGAM: Measuring and Moderating Cognitive Load in Machine Learning Model Explanations;understanding
+Agathe Balayn;How can Explainability Methods be Used to Support Bug Identification in Computer Vision Models?;usability
+Alison Smith-Renner;No Explainability without Accountability: An Empirical Study of Explanations and Feedback in Interactive ML;team
+Alison Smith-Renner;Digging into User Control: Perceptions of Adherence and Instability in Transparent Models;team
+Alqaraawi;Evaluating Saliency Map Explanations for Convolutional Neural Networks: A User Study;understanding
+Andrew Bell;It’s Just Not That Simple: An Empirical Study of the Accuracy-Explainability Trade-off in Machine Learning for Public Policy;team
+Andrew Bell;It’s Just Not That Simple: An Empirical Study of the Accuracy-Explainability Trade-off in Machine Learning for Public Policy,;understanding
+Antoran;Getting a CLUE: A Method for Explaining Uncertainty Estimates;understanding
+Ariful Islam Anik;Data-Centric Explanations: Explaining Training Data of Machine Learning Systems to Promote Transparency;trust
+Ariful Islam Anik;Data-Centric Explanations: Explaining Training Data of Machine Learning Systems to Promote Transparency;fairness
+Arora;Explain, Edit, and Understand: Rethinking User Study Design for Evaluating Model Explanations;understanding
+Bang;Explaining A Black-box By Using A Deep Variational Information Bottleneck Approach;understanding
+Borowski;Exemplary Natural Images Explain CNN Activations Better than State-of-the-Art Feature Visualization;understanding
+Buçinca;Proxy Tasks and Subjective Measures Can Be Misleading in Evaluating Explainable AI Systems;team
+Buçinca;Proxy Tasks and Subjective Measures Can Be Misleading in Evaluating Explainable AI Systems;understanding
+Carrie J. Cai;The Effects of Example-Based Explanations in a Machine Learning Interface;trust
+Carrie J. Cai;The Effects of Example-Based Explanations in a Machine Learning Interface;understanding
+Carrie J. Cai;The Effects of Example-Based Explanations in a Machine Learning Interface;understanding
+Cecilia Panigutti;Understanding the impact of explanations on advice-taking: a user study for AI-based clinical Decision Support Systems;trust
+Cecilia Panigutti;Understanding the impact of explanations on advice-taking: a user study for AI-based clinical Decision Support Systems;usability
+Chandrasekaran;Do explanations make VQA models more predictable to a human?;understanding
+Chun-Hua Tsai;Exploring and Promoting Diagnostic Transparency and Explainability in Online Symptom Checkers;trust
+Chun-Hua Tsai;Beyond the Ranked List: User-Driven Exploration and Diversification of Social Recommendation;trust
+Chun-Hua Tsai;Explaining Recommendations in an Interactive Hybrid Social Recommender;usability
+Chun-Hua Tsai;Exploring and Promoting Diagnostic Transparency and Explainability in Online Symptom Checkers;usability
+Chun-Hua Tsai;Beyond the Ranked List: User-Driven Exploration and Diversification of Social Recommendation;usability
+Clara Bove;Contextualization and Exploration of Local Feature Importance Explanations to Improve Understanding and Satisfaction of Non-Expert Users;usability
+Clara Bove;Contextualization and Exploration of Local Feature Importance Explanations to Improve Understanding and Satisfaction of Non-Expert Users;understanding
+Clarice Wang;Do Humans Prefer Debiased AI Algorithms? A Case Study in Career Recommendation;fairness
+Dae Hyun Kim;Answering Questions about Charts and Generating Visual Explanations;trust
+Dae Hyun Kim;Answering Questions about Charts and Generating Visual Explanations;usability
+Dae Hyun Kim;Answering Questions about Charts and Generating Visual Explanations;usability
+David Johnson;NJM-Vis: Interpreting Neural Joint Models in NLP;usability
+Devleena Das;Leveraging Rationales to Improve Human Task Performance;team
+Dustin L. Arendt;Parallel Embeddings: a Visualization Technique for Contrasting Learned Representations;usability
+Emilee Rader;Explanations as Mechanisms for Supporting Algorithmic Transparency;fairness
+Emilee Rader;Explanations as Mechanisms for Supporting Algorithmic Transparency;understanding
+Fred Hohman;Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models;usability
+Gagan Bansal;Does the Whole Exceed its Parts? The Effect of AI Explanations on Complementary Team Performance;team
+Galen Harrison;An Empirical Study on the Perceived Fairness of Realistic, Imperfect Machine Learning Models;fairness
+Ghorbani;Towards Automatic Concept-based Explanations;understanding
+Hadash;Improving understandability of feature contributions in model-agnostic explainable AI tools;understanding
+Hao-Fei Cheng;Explaining Decision-Making Algorithms through UI: Strategies to Help Non-Expert Stakeholders;trust
+Hao-Fei Cheng;Explaining Decision-Making Algorithms through UI: Strategies to Help Non-Expert Stakeholders;understanding
+Harini Suresh;Intuitively Assessing ML Model Reliability through Example-Based Explanations and Editing Model Inputs;trust
+Harmanpreet Kaur;Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning;trust
+Harmanpreet Kaur;Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning;understanding
+Hase;Evaluating Explainable AI Which Algorithmic Explanations Help Users Predict Model Behavior;understanding
+Hendrik Schuff;Human Interpretation of Saliency-based Explanation Over Text;understanding
+Jakob Schoeffer;“There Is Not Enough Information”: On the Effects of Explanations on Perceptions of Informational Fairness and Trustworthiness in Automated Decision-Making;trust
+Jakob Schoeffer;“There Is Not Enough Information”: On the Effects of Explanations on Perceptions of Informational Fairness and Trustworthiness in Automated Decision-Making;fairness
+Jakob Schoeffer;Appropriate Fairness Perceptions? On the Effectiveness of Explanations in Enabling People to Assess the Fairness of Automated Decision Systems;fairness
+James Schaffer;I Can Do Better Than Your AI: Expertise and Explanations;trust
+Jeroen Ooge;Explaining Recommendations in E-Learning: Effects on Adolescents' Trust;trust
+Jingyue Guo;Explainable Recommendation through Attentive Multi-View Learning;understanding
+Johannes Kunkel;Let Me Explain: Impact of Personal and Impersonal Explanations on Trust in Recommender Systems;trust
+Jonathan Dodge;How Do People Rank Multiple Mutant Agents?;usability
+Jonathan Dodge;Explaining Models: An Empirical Study of How Explanations Impact Fairness Judgment;fairness
+Juan Rebanal;XAlgo: a Design Probe of Explaining Algorithms’ Internal States via Question-Answering;understanding
+Kaur;Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning;usability
+Krzysztof Z. Gajos;Do People Engage Cognitively with AI? Impact of AI Assistance on Incidental Learning;usability
+Laina;Quantifying Learnability and Describability of Visual Concepts Emerging in Representation Learning;understanding
+Leemann;Coherence Evaluation of Visual Concepts With Objects and Language;understanding
+Lijie Guo;Building Trust in Interactive Machine Learning via User Contributed Interpretable Rules;trust
+Lijie Guo;Building Trust in Interactive Machine Learning via User Contributed Interpretable Rules;usability
+Lijie Guo;Building Trust in Interactive Machine Learning via User Contributed Interpretable Rules;understanding
+Mahsan Nourani;Anchoring Bias Affects Mental Model Formation and User Reliance in Explainable AI Systems;usability
+Mahsan Nourani;Anchoring Bias Affects Mental Model Formation and User Reliance in Explainable AI Systems;team
+Mahsan Nourani;Anchoring Bias Affects Mental Model Formation and User Reliance in Explainable AI Systems;understanding
+Marissa Radensky;Exploring The Role of Local and Global Explanations in Recommender Systems;understanding
+Mark Colley;Effects of Semantic Segmentation Visualization on Trust, Situation Awareness, and Cognitive Load in Highly Automated Vehicles;trust
+Mark Colley;Effects of Semantic Segmentation Visualization on Trust, Situation Awareness, and Cognitive Load in Highly Automated Vehicles;usability
+Martijn Millecamp;To Explain or not to Explain: the Effects of Personal Characteristics when Explaining Music Recommendations;trust
+Martijn Millecamp;To Explain or not to Explain: the Effects of Personal Characteristics when Explaining Music Recommendations;usability
+Mengqi Liao;How Should AI Systems Talk to Users when Collecting their Personal Information? Effects of Role Framing and Self-Referencing on Human-AI Interaction;trust
+Mengqi Liao;User Trust in Recommendation Systems: A comparison of Content-Based, Collaborative and Demographic Filtering;team
+Michael Chromik;I Think I Get Your Point, AI! The Illusion of Explanatory Depth in Explainable AI;understanding
+Nina Grgic-Hlaca;Human perceptions of fairness in algorithmic decision making: A case study of criminal risk prediction;fairness
+Reuben Binns;'It's Reducing a Human Being to a Percentage' Perceptions of Justice in Algorithmic Decisions;fairness
+Nyi Nyi Htun;Perception of Fairness in Group Music Recommender Systems;fairness
+Paleja;The Utility of Explainable AI in Ad Hoc Human-Machine Teaming;team
+Pierre Le Bras;Improving User Confidence in Concept Maps: Exploring Data Driven Explanations;usability
+Pigi Kouki;Personalized Explanations for Hybrid Recommender Systems;usability
+Poursabzi-Sangdeh;Manipulating and Measuring Model Interpretability;usability
+Poursabzi-Sangdeh;Manipulating and Measuring Model Interpretability;team
+Poursabzi-Sangdeh;Manipulating and Measuring Model Interpretability;understanding
+Ramamurthy;Model Agnostic Multilevel Explanations;understanding
+Ribeiro;Anchors: High-Precision Model-Agnostic Explanations;usability
+Ribeiro;Anchors: High-Precision Model-Agnostic Explanations;understanding
+Rohan Paleja;The Utility of Explainable AI in Ad Hoc Human-Machine Teaming;trust
+Ross;Evaluating the Interpretability of Generative Models by Interactive Reconstruction;understanding
+Ruoxi Shang;Why Am I Not Seeing It? Understanding Users' Needs for Counterfactual Explanations in Everyday Recommendations;usability
+Saemi Choi;FontMatcher: Font Image Paring for Harmonious Digital Graphic Design;usability
+Shi Feng;What can AI do for me? Evaluating Machine Learning Interpretations in Cooperative Play;team
+Sixt;Do Users Benefit From Interpretable Vision? A User Study, Baseline, And Dataset;understanding
+Smith-Renner;No Explainability without Accountability: An Empirical Study of Explanations and Feedback in Interactive ML;usability
+Tianyi Li;What Data Should I Protect? Recommender and Planning Support for Data Security Analysts;trust
+Tianyi Li;What Data Should I Protect? Recommender and Planning Support for Data Security Analysts;usability
+Tim Donkers;Explaining Recommendations by Means of Aspect-based Transparent Memories;usability
+Tobias Schneider;ExplAIn Yourself! Transparency for Positive UX in Autonomous Driving;usability
+Ulrike Kuhl;Keep Your Friends Close and Your Counterfactuals Closer: Improved Learning From Closest Rather Than Plausible Counterfactual Explanations in an Abstract Setting;usability
+Ulrike Kuhl;Let's Go to the Alien Zoo: Introducing an Experimental Framework to Study Usability of Counterfactual Explanations for Machine Learning;usability
+Ulrike Kuhl;Keep Your Friends Close and Your Counterfactuals Closer: Improved Learning From Closest Rather Than Plausible Counterfactual Explanations in an Abstract Setting;understanding
+Upol Ehsan;Expanding Explainability: Towards Social Transparency in AI systems;trust
+Upol Ehsan;Automated Rationale Generation: A Technique for Explainable AI and its Effects on Human Perceptions;trust
+Upol Ehsan;Automated Rationale Generation: A Technique for Explainable AI and its Effects on Human Perceptions;understanding
+Vicente Dominguez;The Effect of Explanations and Algorithmic Accuracy on Visual Recommender Systems of Artistic Images;trust
+Vicente Dominguez;The Effect of Explanations and Algorithmic Accuracy on Visual Recommender Systems of Artistic Images;usability
+Vicente Dominguez;The Effect of Explanations and Algorithmic Accuracy on Visual Recommender Systems of Artistic Images;understanding
+Vivian Lai;On Human Predictions with Explanations and Predictions of Machine Learning Models: A Case Study on Deception Detection;trust
+Vivian Lai;“Why is ‘Chicago’ deceptive?” Towards Building Model-Driven Tutorials for Humans;team
+Vivian Lai;On Human Predictions with Explanations and Predictions of Machine Learning Models: A Case Study on Deception Detection;team
+Wencan Zhang;Debiased-CAM to mitigate image perturbations with faithful visual explanations of machine learning;usability
+Xinru Wang;Are Explanations Helpful? A Comparative Study of the Effects of Explanations in AI-Assisted Decision-Making;trust
+Xinru Wang;Are Explanations Helpful? A Comparative Study of the Effects of Explanations in AI-Assisted Decision-Making;understanding
+Yasmeen Alufaisan;Does Explainable Artificial Intelligence Improve Human Decision-Making?;team
+Yeh;On Completeness-aware Concept-Based Explanations in Deep Neural Networks;understanding
+Yunlong Wang;Interpretable Directed Diversity: Leveraging Model Explanations for Iterative Crowd Ideation;usability
+Yunlong Wang;Interpretable Directed Diversity: Leveraging Model Explanations for Iterative Crowd Ideation;understanding
+Zana Buçinca;Proxy Tasks and Subjective Measures Can Be Misleading in Evaluating Explainable AI Systems;trust
+Zhang (Perceptual);Towards Relatable Explainable AI with the Perceptual Process;usability
+Zhang (Perceptual);Towards Relatable Explainable AI with the Perceptual Process;understanding
