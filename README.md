@@ -15,3 +15,15 @@ Based on past XAI user studies, we provide summary cards of the guidelines:
 For a full list of core papers, please see instructions in `Demo.ipynb`.
 
 
+
+## Citation
+If you find this repo useful, please star the repo and cite:
+```
+@article{rong2022towards,
+  title={Towards Human-centered Explainable AI: User Studies for Model Explanations},
+  author={Rong, Yao and Leemann, Tobias and Nguyen, Thai-trang and Fiedler, Lisa and Seidel, Tina and Kasneci, Gjergji and Kasneci, Enkelejda},
+  journal={arXiv preprint arXiv:2210.11584},
+  year={2022}
+}
+```
+Contact me (yao.rong@uni-tuebingen.de) if you have any questions or suggestions.
