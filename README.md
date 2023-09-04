@@ -17,7 +17,7 @@ For a full list of core papers, please see instructions in `Demo.ipynb`.
 Extracted keywords used in the figure (shown below) are stored in json files, and can be found in the folder "code". (Code for extracting keywords can be found there, too.)
 
 
-![Illustration of the foundational research domains and influenced research domains](https://github.com/yaorong0921/hxai-survey/blob/main/code/combined.png "Illustration of the foundational research domains (Left) and influenced research domains (Right)")
+![Illustration of the foundational research domains and influenced research domains](https://github.com/yaorong0921/hxai-survey/blob/main/combined.png "Illustration of the foundational research domains (Left) and influenced research domains (Right)")
 
 ## Citation
 If you find this repo useful, please star the repo and cite:
