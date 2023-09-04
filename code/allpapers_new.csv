@@ -8,7 +8,7 @@ Andrew Bell;It’s Just Not That Simple: An Empirical Study of the Accuracy-Expl
 Andrew Bell;It’s Just Not That Simple: An Empirical Study of the Accuracy-Explainability Trade-off in Machine Learning for Public Policy,;understanding
 Antoran;Getting a CLUE: A Method for Explaining Uncertainty Estimates;understanding
 Ariful Islam Anik;Data-Centric Explanations: Explaining Training Data of Machine Learning Systems to Promote Transparency;trust
-Ariful Islam Anik;Data-Centric Explanations: Explaining Training Data of Machine Learning Systems to Promote Transparency;fairness
+Ariful Islam Anik;Data-Centric Explanations: Explaining Training Data of Machine Learning Systems to Promote Transparency;usability
 Arora;Explain, Edit, and Understand: Rethinking User Study Design for Evaluating Model Explanations;understanding
 Bang;Explaining A Black-box By Using A Deep Variational Information Bottleneck Approach;understanding
 Borowski;Exemplary Natural Images Explain CNN Activations Better than State-of-the-Art Feature Visualization;understanding
@@ -27,18 +27,18 @@ Chun-Hua Tsai;Exploring and Promoting Diagnostic Transparency and Explainability
 Chun-Hua Tsai;Beyond the Ranked List: User-Driven Exploration and Diversification of Social Recommendation;usability
 Clara Bove;Contextualization and Exploration of Local Feature Importance Explanations to Improve Understanding and Satisfaction of Non-Expert Users;usability
 Clara Bove;Contextualization and Exploration of Local Feature Importance Explanations to Improve Understanding and Satisfaction of Non-Expert Users;understanding
-Clarice Wang;Do Humans Prefer Debiased AI Algorithms? A Case Study in Career Recommendation;fairness
+Clarice Wang;Do Humans Prefer Debiased AI Algorithms? A Case Study in Career Recommendation;usability
 Dae Hyun Kim;Answering Questions about Charts and Generating Visual Explanations;trust
 Dae Hyun Kim;Answering Questions about Charts and Generating Visual Explanations;usability
 Dae Hyun Kim;Answering Questions about Charts and Generating Visual Explanations;usability
 David Johnson;NJM-Vis: Interpreting Neural Joint Models in NLP;usability
 Devleena Das;Leveraging Rationales to Improve Human Task Performance;team
 Dustin L. Arendt;Parallel Embeddings: a Visualization Technique for Contrasting Learned Representations;usability
-Emilee Rader;Explanations as Mechanisms for Supporting Algorithmic Transparency;fairness
+Emilee Rader;Explanations as Mechanisms for Supporting Algorithmic Transparency;usability
 Emilee Rader;Explanations as Mechanisms for Supporting Algorithmic Transparency;understanding
 Fred Hohman;Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models;usability
 Gagan Bansal;Does the Whole Exceed its Parts? The Effect of AI Explanations on Complementary Team Performance;team
-Galen Harrison;An Empirical Study on the Perceived Fairness of Realistic, Imperfect Machine Learning Models;fairness
+Galen Harrison;An Empirical Study on the Perceived usability of Realistic, Imperfect Machine Learning Models;usability
 Ghorbani;Towards Automatic Concept-based Explanations;understanding
 Hadash;Improving understandability of feature contributions in model-agnostic explainable AI tools;understanding
 Hao-Fei Cheng;Explaining Decision-Making Algorithms through UI: Strategies to Help Non-Expert Stakeholders;trust
@@ -48,15 +48,15 @@ Harmanpreet Kaur;Interpreting Interpretability: Understanding Data Scientists’
 Harmanpreet Kaur;Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning;understanding
 Hase;Evaluating Explainable AI Which Algorithmic Explanations Help Users Predict Model Behavior;understanding
 Hendrik Schuff;Human Interpretation of Saliency-based Explanation Over Text;understanding
-Jakob Schoeffer;“There Is Not Enough Information”: On the Effects of Explanations on Perceptions of Informational Fairness and Trustworthiness in Automated Decision-Making;trust
-Jakob Schoeffer;“There Is Not Enough Information”: On the Effects of Explanations on Perceptions of Informational Fairness and Trustworthiness in Automated Decision-Making;fairness
-Jakob Schoeffer;Appropriate Fairness Perceptions? On the Effectiveness of Explanations in Enabling People to Assess the Fairness of Automated Decision Systems;fairness
+Jakob Schoeffer;“There Is Not Enough Information”: On the Effects of Explanations on Perceptions of Informational usability and Trustworthiness in Automated Decision-Making;trust
+Jakob Schoeffer;“There Is Not Enough Information”: On the Effects of Explanations on Perceptions of Informational usability and Trustworthiness in Automated Decision-Making;usability
+Jakob Schoeffer;Appropriate usability Perceptions? On the Effectiveness of Explanations in Enabling People to Assess the usability of Automated Decision Systems;usability
 James Schaffer;I Can Do Better Than Your AI: Expertise and Explanations;trust
 Jeroen Ooge;Explaining Recommendations in E-Learning: Effects on Adolescents' Trust;trust
 Jingyue Guo;Explainable Recommendation through Attentive Multi-View Learning;understanding
 Johannes Kunkel;Let Me Explain: Impact of Personal and Impersonal Explanations on Trust in Recommender Systems;trust
 Jonathan Dodge;How Do People Rank Multiple Mutant Agents?;usability
-Jonathan Dodge;Explaining Models: An Empirical Study of How Explanations Impact Fairness Judgment;fairness
+Jonathan Dodge;Explaining Models: An Empirical Study of How Explanations Impact usability Judgment;usability
 Juan Rebanal;XAlgo: a Design Probe of Explaining Algorithms’ Internal States via Question-Answering;understanding
 Kaur;Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning;usability
 Krzysztof Z. Gajos;Do People Engage Cognitively with AI? Impact of AI Assistance on Incidental Learning;usability
@@ -76,9 +76,9 @@ Martijn Millecamp;To Explain or not to Explain: the Effects of Personal Characte
 Mengqi Liao;How Should AI Systems Talk to Users when Collecting their Personal Information? Effects of Role Framing and Self-Referencing on Human-AI Interaction;trust
 Mengqi Liao;User Trust in Recommendation Systems: A comparison of Content-Based, Collaborative and Demographic Filtering;team
 Michael Chromik;I Think I Get Your Point, AI! The Illusion of Explanatory Depth in Explainable AI;understanding
-Nina Grgic-Hlaca;Human perceptions of fairness in algorithmic decision making: A case study of criminal risk prediction;fairness
-Reuben Binns;'It's Reducing a Human Being to a Percentage' Perceptions of Justice in Algorithmic Decisions;fairness
-Nyi Nyi Htun;Perception of Fairness in Group Music Recommender Systems;fairness
+Nina Grgic-Hlaca;Human perceptions of usability in algorithmic decision making: A case study of criminal risk prediction;usability
+Reuben Binns;'It's Reducing a Human Being to a Percentage' Perceptions of Justice in Algorithmic Decisions;usability
+Nyi Nyi Htun;Perception of usability in Group Music Recommender Systems;usability
 Paleja;The Utility of Explainable AI in Ad Hoc Human-Machine Teaming;team
 Pierre Le Bras;Improving User Confidence in Concept Maps: Exploring Data Driven Explanations;usability
 Pigi Kouki;Personalized Explanations for Hybrid Recommender Systems;usability
